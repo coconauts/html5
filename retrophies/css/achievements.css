@@ -1,0 +1,43 @@
+.achievement {
+  width: 200px;
+  height:60px;
+  background-color:#121315;
+  border:1px solid #48494b;
+  border-radius: 5px 0px 0px 5px;
+
+  position:fixed;
+  right:-200px;
+  top:30px;
+}
+.achievement img {
+  height: 40px;
+padding: 10px;
+}
+.achievement .details {
+  width: 75%;
+  line-height: 3px;
+  text-align: right;
+
+  position: absolute;
+  top: 0px;
+  right: 5px;
+}
+.achievement .title {
+  color:#aaa;
+}
+.achievement .description {
+    color:#555;
+      font-size: small;
+      line-height:10px;
+      height: 30px;
+      width: 400px;
+      vertical-align: middle;
+      line-height: normal;
+      margin: 0px;
+      display: table-cell;
+}
+
+/* Override bootstrap p margin*/
+.achievement  p{
+  margin: 10px 0px 10px 10px
+}

@@ -1,0 +1,738 @@
+nohup: ignoring input
+Websocket server started
+New connection: zI8odtA93bFJAyVS/2zGzA==
+Total connections 1
+Unable to update fish  { type: 'update',
+  fish: 
+   { x: 398.5,
+     y: 300,
+     id: '06a43aa2273c921537e5',
+     direction: { x: -1, y: 0 },
+     stage: 1,
+     baseStats: 
+      { attack: 0.62,
+        defense: 0.22999999999999998,
+        speed: 0.15000000000000002 },
+     secondsAlive: 0,
+     health: 1,
+     food: 100,
+     color: '#75D469',
+     shape: 
+      { bodyWidth: 15,
+        bodyLength: 51,
+        headLength: 6,
+        tailWidth: 17,
+        tailLength: 8,
+        finWidth: 8,
+        finLength: 5 },
+     type: 0,
+     index: 0,
+     name: 'Quick freshwater shark',
+     sector: '0,0',
+     angle: 0,
+     animation: { tailOffset: -1 } } } [TypeError: Cannot set property 'fish' of undefined]
+Unable to update fish  { type: 'update',
+  fish: 
+   { x: 393.85,
+     y: 300,
+     id: '06a43aa2273c921537e5',
+     direction: { x: -1, y: 0 },
+     stage: 1,
+     baseStats: 
+      { attack: 0.62,
+        defense: 0.22999999999999998,
+        speed: 0.15000000000000002 },
+     secondsAlive: 0,
+     health: 1,
+     food: 100,
+     color: '#75D469',
+     shape: 
+      { bodyWidth: 15,
+        bodyLength: 51,
+        headLength: 6,
+        tailWidth: 17,
+        tailLength: 8,
+        finWidth: 8,
+        finLength: 5 },
+     type: 0,
+     index: 0,
+     name: 'Quick freshwater shark',
+     sector: '0,0',
+     angle: 0,
+     animation: { tailOffset: -2 } } } [TypeError: Cannot set property 'fish' of undefined]
+Connection closed  zI8odtA93bFJAyVS/2zGzA==
+Total connections 0
+New connection: E2lfZt8+7L6Pj5KWrFCucw==
+Total connections 1
+Connection closed  E2lfZt8+7L6Pj5KWrFCucw==
+Total connections 0
+New connection: OLmXDnJPxMWQPzUIim1Ujg==
+Total connections 1
+Connection closed  OLmXDnJPxMWQPzUIim1Ujg==
+Total connections 0
+New connection: 5MRZkHPoTwQ7KFY1SCy4aw==
+Total connections 1
+Connection closed  5MRZkHPoTwQ7KFY1SCy4aw==
+Total connections 0
+New connection: 0IwsTRWIKKIEwLGXSeobAw==
+Total connections 1
+New connection: oSOfkVxFgpEvSttNzMTmRw==
+Total connections 2
+Connection closed  oSOfkVxFgpEvSttNzMTmRw==
+Total connections 1
+Connection closed  0IwsTRWIKKIEwLGXSeobAw==
+Total connections 0
+New connection: eAR+YsknJSCkdNTX3AYfzQ==
+Total connections 1
+New connection: XYdFw5hhwlz9jprdJrXMXA==
+Total connections 2
+Unable to update fish  { type: 'update',
+  fish: 
+   { x: 395.22999999999996,
+     y: 300,
+     id: 'c8e75bf4463a7f4ddaaf',
+     direction: { x: -1, y: 0 },
+     stage: 1,
+     baseStats: 
+      { attack: 0.49,
+        defense: 0.21999999999999997,
+        speed: 0.29000000000000004 },
+     secondsAlive: 0,
+     health: 1,
+     food: 100,
+     color: '#CA4919',
+     shape: 
+      { bodyWidth: 18,
+        bodyLength: 24,
+        headLength: 10,
+        tailWidth: 12,
+        tailLength: 13,
+        finWidth: 8,
+        finLength: 5 },
+     type: 0,
+     index: 0,
+     name: 'Witty cave catfish',
+     sector: '0,0',
+     angle: 0,
+     animation: { tailOffset: 4 } } } [TypeError: Cannot set property 'fish' of undefined]
+Connection closed  XYdFw5hhwlz9jprdJrXMXA==
+Total connections 1
+New connection: 8TIwIPUSJZerX88Uqj/9rA==
+Total connections 2
+Connection closed  eAR+YsknJSCkdNTX3AYfzQ==
+Total connections 1
+Connection closed  8TIwIPUSJZerX88Uqj/9rA==
+Total connections 0
+New connection: 7pJlmcLOJ87LRP8yXI+Mrw==
+Total connections 1
+New connection: RbhCtLHlXNG4AP9JxjfGlQ==
+Total connections 2
+Connection closed  7pJlmcLOJ87LRP8yXI+Mrw==
+Total connections 1
+Connection closed  RbhCtLHlXNG4AP9JxjfGlQ==
+Total connections 0
+New connection: 71S3KYdxS/lwnNa2KxFj6w==
+Total connections 1
+Unable to update fish  { type: 'update',
+  fish: 
+   { x: 400,
+     y: 300,
+     id: '003a19b82cbf0944eee9',
+     direction: { x: -1, y: 0 },
+     stage: 1,
+     baseStats: 
+      { attack: 0.67,
+        defense: 0.1499999999999999,
+        speed: 0.18000000000000005 },
+     secondsAlive: 0,
+     health: 1,
+     food: 100,
+     color: '#A234FB',
+     shape: 
+      { bodyWidth: 9,
+        bodyLength: 59,
+        headLength: 11,
+        tailWidth: 18,
+        tailLength: 5,
+        finWidth: 8,
+        finLength: 5 },
+     type: 0,
+     index: 0,
+     name: 'Long mackerel',
+     sector: '0,0' } } [TypeError: Cannot set property 'fish' of undefined]
+Connection closed  71S3KYdxS/lwnNa2KxFj6w==
+Total connections 0
+New connection: qBFoQD3PhLWYqn/4/+IkIA==
+Total connections 1
+Connection closed  qBFoQD3PhLWYqn/4/+IkIA==
+Total connections 0
+New connection: YU4I1uJvIo3cs2BqABChfQ==
+Total connections 1
+Unable to update fish  { type: 'update',
+  fish: 
+   { x: 400,
+     y: 300,
+     id: '08ff89ac35838d4d10b1',
+     direction: { x: -1, y: 0 },
+     stage: 1,
+     baseStats: { attack: 0.17, defense: 0.59, speed: 0.24 },
+     secondsAlive: 0,
+     health: 1,
+     food: 100,
+     color: '#756602',
+     shape: 
+      { bodyWidth: 10,
+        bodyLength: 41,
+        headLength: 14,
+        tailWidth: 6,
+        tailLength: 14,
+        finWidth: 8,
+        finLength: 5 },
+     type: 0,
+     index: 0,
+     name: 'Brave dogfish',
+     sector: '0,0' } } [TypeError: Cannot set property 'fish' of undefined]
+Connection closed  YU4I1uJvIo3cs2BqABChfQ==
+Total connections 0
+New connection: Gh6SS5o9bH7cYaqjiXWUKg==
+Total connections 1
+Unable to update fish  { type: 'update',
+  fish: 
+   { x: 400,
+     y: 300,
+     id: '644646532520a54b7c83',
+     direction: { x: -1, y: 0 },
+     stage: 1,
+     baseStats: 
+      { attack: 0.63,
+        defense: 0.19999999999999996,
+        speed: 0.17000000000000004 },
+     secondsAlive: 0,
+     health: 1,
+     food: 100,
+     color: '#5C77FF',
+     shape: 
+      { bodyWidth: 7,
+        bodyLength: 42,
+        headLength: 5,
+        tailWidth: 13,
+        tailLength: 11,
+        finWidth: 8,
+        finLength: 5 },
+     type: 0,
+     index: 0,
+     name: 'Jolly tigerfish',
+     sector: '0,0',
+     angle: 0,
+     animation: { tailOffset: 4 } } } [TypeError: Cannot set property 'fish' of undefined]
+Unable to update fish  { type: 'update',
+  fish: 
+   { x: 400,
+     y: 300,
+     id: '644646532520a54b7c83',
+     direction: { x: -1, y: 0 },
+     stage: 1,
+     baseStats: 
+      { attack: 0.63,
+        defense: 0.19999999999999996,
+        speed: 0.17000000000000004 },
+     secondsAlive: 0,
+     health: 1,
+     food: 100,
+     color: '#5C77FF',
+     shape: 
+      { bodyWidth: 7,
+        bodyLength: 42,
+        headLength: 5,
+        tailWidth: 13,
+        tailLength: 11,
+        finWidth: 8,
+        finLength: 5 },
+     type: 0,
+     index: 0,
+     name: 'Jolly tigerfish',
+     sector: '0,0',
+     angle: 0,
+     animation: { tailOffset: 4 } } } [TypeError: Cannot set property 'fish' of undefined]
+Connection closed  Gh6SS5o9bH7cYaqjiXWUKg==
+Total connections 0
+New connection: GYIyt4S5+kr8WKhzdXHEFA==
+Total connections 1
+Unable to update fish  { type: 'update',
+  fish: 
+   { x: 394.775,
+     y: 300,
+     id: 'f6897f2baa4d5e128696',
+     direction: { x: -1, y: 0 },
+     stage: 1,
+     baseStats: 
+      { attack: 0.67,
+        defense: 0.16999999999999993,
+        speed: 0.16000000000000003 },
+     secondsAlive: 0,
+     health: 1,
+     food: 100,
+     color: '#112EE2',
+     shape: 
+      { bodyWidth: 11,
+        bodyLength: 24,
+        headLength: 7,
+        tailWidth: 16,
+        tailLength: 7,
+        finWidth: 8,
+        finLength: 5 },
+     type: 0,
+     index: 0,
+     name: 'Thankful haplochromine',
+     sector: '0,0',
+     angle: 0,
+     animation: { tailOffset: -3 } } } [TypeError: Cannot set property 'fish' of undefined]
+Unable to update fish  { type: 'update',
+  fish: 
+   { x: 392.3,
+     y: 300,
+     id: 'f6897f2baa4d5e128696',
+     direction: { x: -1, y: 0 },
+     stage: 1,
+     baseStats: 
+      { attack: 0.67,
+        defense: 0.16999999999999993,
+        speed: 0.16000000000000003 },
+     secondsAlive: 0,
+     health: 1,
+     food: 100,
+     color: '#112EE2',
+     shape: 
+      { bodyWidth: 11,
+        bodyLength: 24,
+        headLength: 7,
+        tailWidth: 16,
+        tailLength: 7,
+        finWidth: 8,
+        finLength: 5 },
+     type: 0,
+     index: 0,
+     name: 'Thankful haplochromine',
+     sector: '0,0',
+     angle: 0,
+     animation: { tailOffset: 1 } } } [TypeError: Cannot set property 'fish' of undefined]
+Unable to update fish  { type: 'update',
+  fish: 
+   { x: 389.8,
+     y: 300,
+     id: 'f6897f2baa4d5e128696',
+     direction: { x: -1, y: 0 },
+     stage: 1,
+     baseStats: 
+      { attack: 0.67,
+        defense: 0.16999999999999993,
+        speed: 0.16000000000000003 },
+     secondsAlive: 0,
+     health: 1,
+     food: 100,
+     color: '#112EE2',
+     shape: 
+      { bodyWidth: 11,
+        bodyLength: 24,
+        headLength: 7,
+        tailWidth: 16,
+        tailLength: 7,
+        finWidth: 8,
+        finLength: 5 },
+     type: 0,
+     index: 0,
+     name: 'Thankful haplochromine',
+     sector: '0,0',
+     angle: 0,
+     animation: { tailOffset: -3 } } } [TypeError: Cannot set property 'fish' of undefined]
+Unable to update fish  { type: 'update',
+  fish: 
+   { x: 387.3,
+     y: 300,
+     id: 'f6897f2baa4d5e128696',
+     direction: { x: -1, y: 0 },
+     stage: 1,
+     baseStats: 
+      { attack: 0.67,
+        defense: 0.16999999999999993,
+        speed: 0.16000000000000003 },
+     secondsAlive: 0,
+     health: 1,
+     food: 100,
+     color: '#112EE2',
+     shape: 
+      { bodyWidth: 11,
+        bodyLength: 24,
+        headLength: 7,
+        tailWidth: 16,
+        tailLength: 7,
+        finWidth: 8,
+        finLength: 5 },
+     type: 0,
+     index: 0,
+     name: 'Thankful haplochromine',
+     sector: '0,0',
+     angle: 0,
+     animation: { tailOffset: -5 } } } [TypeError: Cannot set property 'fish' of undefined]
+Unable to update fish  { type: 'update',
+  fish: 
+   { x: 384.8,
+     y: 300,
+     id: 'f6897f2baa4d5e128696',
+     direction: { x: -1, y: 0 },
+     stage: 1,
+     baseStats: 
+      { attack: 0.67,
+        defense: 0.16999999999999993,
+        speed: 0.16000000000000003 },
+     secondsAlive: 0,
+     health: 1,
+     food: 100,
+     color: '#112EE2',
+     shape: 
+      { bodyWidth: 11,
+        bodyLength: 24,
+        headLength: 7,
+        tailWidth: 16,
+        tailLength: 7,
+        finWidth: 8,
+        finLength: 5 },
+     type: 0,
+     index: 0,
+     name: 'Thankful haplochromine',
+     sector: '0,0',
+     angle: 0,
+     animation: { tailOffset: -2 } } } [TypeError: Cannot set property 'fish' of undefined]
+Connection closed  GYIyt4S5+kr8WKhzdXHEFA==
+Total connections 0
+New connection: huyDB8i28gRi47X98/QKBg==
+Total connections 1
+Unable to update fish  { type: 'update',
+  fish: 
+   { x: 400,
+     y: 300,
+     id: '2aa5876cc423fe4bfc2f',
+     direction: { x: -1, y: 0 },
+     stage: 1,
+     baseStats: { attack: 0.42, defense: 0.23000000000000004, speed: 0.35 },
+     secondsAlive: 0,
+     health: 1,
+     food: 100,
+     color: '#BB5899',
+     shape: 
+      { bodyWidth: 14,
+        bodyLength: 31,
+        headLength: 10,
+        tailWidth: 8,
+        tailLength: 7,
+        finWidth: 8,
+        finLength: 5 },
+     type: 0,
+     index: 0,
+     name: 'Lively halibut',
+     sector: '0,0' } } [TypeError: Cannot set property 'fish' of undefined]
+Unable to update fish  { type: 'update',
+  fish: 
+   { x: 400,
+     y: 300,
+     id: '2aa5876cc423fe4bfc2f',
+     direction: { x: -1, y: 0 },
+     stage: 1,
+     baseStats: { attack: 0.42, defense: 0.23000000000000004, speed: 0.35 },
+     secondsAlive: 0,
+     health: 1,
+     food: 100,
+     color: '#BB5899',
+     shape: 
+      { bodyWidth: 14,
+        bodyLength: 31,
+        headLength: 10,
+        tailWidth: 8,
+        tailLength: 7,
+        finWidth: 8,
+        finLength: 5 },
+     type: 0,
+     index: 0,
+     name: 'Lively halibut',
+     sector: '0,0' } } [TypeError: Cannot set property 'fish' of undefined]
+Connection closed  huyDB8i28gRi47X98/QKBg==
+Total connections 0
+New connection: wlUGvGTVwiOuPC16Sbtt7Q==
+Total connections 1
+Unable to update fish  { type: 'update',
+  fish: 
+   { x: 400,
+     y: 300,
+     id: '847314e43b988fe4b305',
+     direction: { x: -1, y: 0 },
+     stage: 1,
+     baseStats: { attack: 0.56, defense: 0.18999999999999995, speed: 0.25 },
+     secondsAlive: 0,
+     health: 1,
+     food: 100,
+     color: '#AE8EC8',
+     shape: 
+      { bodyWidth: 6,
+        bodyLength: 46,
+        headLength: 7,
+        tailWidth: 8,
+        tailLength: 10,
+        finWidth: 8,
+        finLength: 5 },
+     type: 0,
+     index: 0,
+     name: 'Swift blenny',
+     sector: '0,0' } } [TypeError: Cannot set property 'fish' of undefined]
+Connection closed  wlUGvGTVwiOuPC16Sbtt7Q==
+Total connections 0
+New connection: PwNpmM0VUxd72o42Hr0uow==
+Total connections 1
+Unable to update fish  { type: 'update',
+  fish: 
+   { x: 384.59999999999997,
+     y: 300,
+     id: 'fd62b605d9dbb02d3d45',
+     direction: { x: -1, y: 0 },
+     stage: 1,
+     baseStats: 
+      { attack: 0.36,
+        defense: 0.30000000000000004,
+        speed: 0.33999999999999997 },
+     secondsAlive: 0,
+     health: 0.943944,
+     food: 100,
+     color: '#732C7C',
+     shape: 
+      { bodyWidth: 23,
+        bodyLength: 38,
+        headLength: 8,
+        tailWidth: 9,
+        tailLength: 13,
+        finWidth: 8,
+        finLength: 5 },
+     type: 0,
+     index: 0,
+     name: 'Rapid yellow catfish',
+     sector: '0,0',
+     angle: 0,
+     animation: { tailOffset: 0 } } } [TypeError: Cannot set property 'fish' of undefined]
+Unable to update fish  { type: 'update',
+  fish: 
+   { x: 381.04999999999995,
+     y: 300,
+     id: 'fd62b605d9dbb02d3d45',
+     direction: { x: -1, y: 0 },
+     stage: 1,
+     baseStats: 
+      { attack: 0.36,
+        defense: 0.30000000000000004,
+        speed: 0.33999999999999997 },
+     secondsAlive: 0,
+     health: 0.9310219999999999,
+     food: 100,
+     color: '#732C7C',
+     shape: 
+      { bodyWidth: 23,
+        bodyLength: 38,
+        headLength: 8,
+        tailWidth: 9,
+        tailLength: 13,
+        finWidth: 8,
+        finLength: 5 },
+     type: 0,
+     index: 0,
+     name: 'Rapid yellow catfish',
+     sector: '0,0',
+     angle: 0,
+     animation: { tailOffset: -4 } } } [TypeError: Cannot set property 'fish' of undefined]
+Unable to update fish  { type: 'update',
+  fish: 
+   { x: 374.34999999999997,
+     y: 300,
+     id: 'fd62b605d9dbb02d3d45',
+     direction: { x: -1, y: 0 },
+     stage: 1,
+     baseStats: 
+      { attack: 0.36,
+        defense: 0.30000000000000004,
+        speed: 0.33999999999999997 },
+     secondsAlive: 0,
+     health: 0.9066339999999999,
+     food: 100,
+     color: '#732C7C',
+     shape: 
+      { bodyWidth: 23,
+        bodyLength: 38,
+        headLength: 8,
+        tailWidth: 9,
+        tailLength: 13,
+        finWidth: 8,
+        finLength: 5 },
+     type: 0,
+     index: 0,
+     name: 'Rapid yellow catfish',
+     sector: '0,0',
+     angle: 0,
+     animation: { tailOffset: -5 } } } [TypeError: Cannot set property 'fish' of undefined]
+Unable to update fish  { type: 'update',
+  fish: 
+   { x: 368.99999999999994,
+     y: 300,
+     id: 'fd62b605d9dbb02d3d45',
+     direction: { x: -1, y: 0 },
+     stage: 1,
+     baseStats: 
+      { attack: 0.36,
+        defense: 0.30000000000000004,
+        speed: 0.33999999999999997 },
+     secondsAlive: 0,
+     health: 0.88716,
+     food: 100,
+     color: '#732C7C',
+     shape: 
+      { bodyWidth: 23,
+        bodyLength: 38,
+        headLength: 8,
+        tailWidth: 9,
+        tailLength: 13,
+        finWidth: 8,
+        finLength: 5 },
+     type: 0,
+     index: 0,
+     name: 'Rapid yellow catfish',
+     sector: '0,0',
+     angle: 0,
+     animation: { tailOffset: 3 } } } [TypeError: Cannot set property 'fish' of undefined]
+Connection closed  PwNpmM0VUxd72o42Hr0uow==
+Total connections 0
+New connection: du1fktOvdlwYfc3nOYV8Ug==
+Total connections 1
+Unable to update fish  { type: 'update',
+  fish: 
+   { x: 400,
+     y: 300,
+     id: '12982848454bdedb0a84',
+     direction: { x: -1, y: 0 },
+     stage: 1,
+     baseStats: { attack: 0.41, defense: 0.23000000000000004, speed: 0.36 },
+     secondsAlive: 0,
+     health: 1,
+     food: 100,
+     color: '#B44BF8',
+     shape: 
+      { bodyWidth: 11,
+        bodyLength: 43,
+        headLength: 9,
+        tailWidth: 10,
+        tailLength: 8,
+        finWidth: 8,
+        finLength: 5 },
+     type: 0,
+     index: 0,
+     name: 'Immense platy',
+     sector: '0,0',
+     angle: 0,
+     animation: { tailOffset: -1 } } } [TypeError: Cannot set property 'fish' of undefined]
+Unable to update fish  { type: 'update',
+  fish: 
+   { x: 392.905,
+     y: 300,
+     id: '12982848454bdedb0a84',
+     direction: { x: -1, y: 0 },
+     stage: 1,
+     baseStats: { attack: 0.41, defense: 0.23000000000000004, speed: 0.36 },
+     secondsAlive: 0,
+     health: 1,
+     food: 100,
+     color: '#B44BF8',
+     shape: 
+      { bodyWidth: 11,
+        bodyLength: 43,
+        headLength: 9,
+        tailWidth: 10,
+        tailLength: 8,
+        finWidth: 8,
+        finLength: 5 },
+     type: 0,
+     index: 0,
+     name: 'Immense platy',
+     sector: '0,0',
+     angle: 0,
+     animation: { tailOffset: 0 } } } [TypeError: Cannot set property 'fish' of undefined]
+Connection closed  du1fktOvdlwYfc3nOYV8Ug==
+Total connections 0
+New connection: sb5iT2d9oV1F8fgbAdxqiw==
+Total connections 1
+Connection closed  sb5iT2d9oV1F8fgbAdxqiw==
+Total connections 0
+New connection: RcopznPVpHYKy+XG4dBq8w==
+Total connections 1
+Unable to update fish  { type: 'update',
+  fish: 
+   { x: 400,
+     y: 300,
+     id: 'a3ef094379e4ba845e40',
+     direction: { x: -1, y: 0 },
+     stage: 1,
+     baseStats: { attack: 0.26, defense: 0.51, speed: 0.22999999999999998 },
+     secondsAlive: 0,
+     health: 1,
+     food: 100,
+     color: '#72D882',
+     shape: 
+      { bodyWidth: 18,
+        bodyLength: 48,
+        headLength: 11,
+        tailWidth: 13,
+        tailLength: 12,
+        finWidth: 8,
+        finLength: 5 },
+     type: 0,
+     index: 0,
+     name: 'Fat scissortail rasbora',
+     sector: '0,0' } } [TypeError: Cannot set property 'fish' of undefined]
+Connection closed  RcopznPVpHYKy+XG4dBq8w==
+Total connections 0
+New connection: d1MUF/omTOGXNvVFyQM3RQ==
+Total connections 1
+Connection closed  d1MUF/omTOGXNvVFyQM3RQ==
+Total connections 0
+New connection: gyrE57ZjmdxsRCk8BXn5+Q==
+Total connections 1
+Unable to update fish  { type: 'update',
+  fish: 
+   { x: 361.2,
+     y: 300,
+     id: '327b2b23fd2abaacb570',
+     direction: { x: -1, y: 0 },
+     stage: 1,
+     baseStats: { attack: 0.24, defense: 0.49, speed: 0.27 },
+     secondsAlive: 0,
+     health: 1,
+     food: 100,
+     color: '#DE0CF5',
+     shape: 
+      { bodyWidth: 8,
+        bodyLength: 40,
+        headLength: 5,
+        tailWidth: 16,
+        tailLength: 13,
+        finWidth: 8,
+        finLength: 5 },
+     type: 0,
+     index: 0,
+     name: 'Lively bream',
+     sector: '0,0',
+     angle: 0,
+     animation: { tailOffset: 2 } } } [TypeError: Cannot set property 'fish' of undefined]
+Connection closed  gyrE57ZjmdxsRCk8BXn5+Q==
+Total connections 0
+New connection: hJh1EHVChXi6SeXq5F5xxg==
+Total connections 1
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: read ECONNRESET
+    at errnoException (net.js:904:11)
+    at TCP.onread (net.js:558:19)
